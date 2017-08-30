@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:padding="10dp"
+             tools:context="com.example.cmm.viewpagerdemo.fragment.Fragment3">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/showToast_id"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@color/dkgray"
+        android:gravity="center"
+        android:text="Surprise fragment3"
+        android:textAllCaps="false"/>
+
+</FrameLayout>
